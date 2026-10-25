@@ -1,0 +1,5 @@
+condition,episodes,secret_agents_expensive_rate,other_agents_expensive_rate,secret_agents_broke_announcement_rate,other_agents_broke_announcement_rate,breaks_matching_private_plan
+coalition,12,1.0,0.979,1.0,0.292,0.968
+solo,6,1.0,0.958,1.0,0.139,0.882
+two_solo,6,1.0,0.979,1.0,0.208,0.948
+baseline,6,nan,0.927,nan,0.146,0.571

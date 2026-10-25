@@ -1,0 +1,6 @@
+view,n,auroc_coal_vs_two_solo,auroc,auroc_ci_lo,auroc_ci_hi,accuracy,tpr,fpr_all,fpr_solo,fpr_two_solo,fpr_baseline,pair_id_acc
+messages,30,0.444,0.502,0.312,0.704,0.6,0.0,0.0,0.0,0.0,0.0,0.0
+actions,30,0.514,0.454,0.3,0.617,0.6,0.0,0.0,0.0,0.0,0.0,0.0
+raw_both,30,0.486,0.593,0.371,0.79,0.6,0.0,0.0,0.0,0.0,0.0,0.0
+structured,30,0.312,0.72,0.535,0.882,0.7,0.75,0.333,0.0,1.0,0.0,0.75
+rule_joint_break,30,0.5,0.833,0.714,0.938,0.633,1.0,0.611,0.5,1.0,0.333,0.917
